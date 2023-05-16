@@ -1,2 +1,2 @@
 # saharyazji-fitness
-githup https://github.com/KYTC-Front-End/saharyazji-fitness/landingpage/index.html
+githup https://github.com/KYTC-Front-End/saharyazji-fitness/landing%20page/index.html
